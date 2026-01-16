@@ -1,8 +1,6 @@
 .ipynb_checkpoints/
 DDIMResults/
 DDIMSamples_png/
-custom_unet_results/
-diffusion_samples/
 *.pt
 *.h5
 *.ckpt

@@ -7,3 +7,4 @@ diffusion_samples/
 *.h5
 *.ckpt
 GAN/
+improved-diffusion/

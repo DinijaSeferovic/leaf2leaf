@@ -4,5 +4,5 @@ DDIMSamples_png/
 *.pt
 *.h5
 *.ckpt
-GAN/
+GAN/results_with_logs/
 improved-diffusion/

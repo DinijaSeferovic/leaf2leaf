@@ -1,6 +1,16 @@
 .ipynb_checkpoints/
-DDIMResults/
+DDIMResults/*ema*
+DDIMResults/*opt*
+DDIMResults/model020000.pt
+DDIMResults/model030000.pt
+DDIMResults/model040000.pt
+DDIMResults/model050000.pt
+DDIMResults/model060000.pt
+DDIMResults/model070000.pt
+DDIMResults/model080000.pt
+DDIMResults/model090000.pt
 DDIMSamples_png/
+DDIMResults/*.npz
 *.pt
 *.h5
 *.ckpt
